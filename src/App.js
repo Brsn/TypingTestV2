@@ -3,7 +3,15 @@ import Speed from './Components/Speed';
 import Text from './Components/Text';
 
 const initialState = {
-  text: 'Test, go ahead and type. See how fast you can go!',
+  text: `There's a sign on the wall
+But she wants to be sure
+'Cause you know sometimes words have two meanings
+In a tree by the brook
+There's a songbird who sings
+Sometimes all of our thoughts are misgiving`,
+  
+  
+  
   userInput: '',
   symbols: 0,
   seconds: 0,
