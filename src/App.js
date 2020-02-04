@@ -3,12 +3,7 @@ import Speed from './Components/Speed';
 import Text from './Components/Text';
 
 const initialState = {
-  text: `There's a sign on the wall
-But she wants to be sure
-'Cause you know sometimes words have two meanings
-In a tree by the brook
-There's a songbird who sings
-Sometimes all of our thoughts are misgiving`,
+  text: `I see my light come shining. From the west down to the east. Any day now, any day now. I shall be released`,
   
   
   
